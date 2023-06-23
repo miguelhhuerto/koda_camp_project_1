@@ -185,7 +185,7 @@ li.dropdown {
 }
 
 #home-info {
-    height: 400px;
+    height: 800px;
 }
 
 #home-info .info-img{
@@ -194,6 +194,8 @@ li.dropdown {
     background: url("../class2.jpeg") no-repeat;
     min-height: 100%;
     background-size: 100%;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 #home-info .info-content {
@@ -212,7 +214,7 @@ li.dropdown {
 }
 
 #home-more {
-    height: 400px;
+    height: 800px;
 }
 
 #home-more .info-img2{
